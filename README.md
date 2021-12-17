@@ -14,3 +14,4 @@ The dataset we used is VoxCeleb and CREMA-D. If you want to use the code, please
 The preprocessing script "emobase" need to be run uder openSMILE path.
 
 ## Confusion Matrix
+![](https://github.com/YW-Ma/Serika_Estimator/blob/main/images/emotion1.png)
