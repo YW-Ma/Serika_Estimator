@@ -1,5 +1,7 @@
 # Serika_Estimator
 225D Final Project
+
+Author: Yaowei Ma & Zhongwen (Frank) Zhou
 ## Structure:
 - preprocessing: preprocessing script
 - modeling: modeling script and evaluation script
