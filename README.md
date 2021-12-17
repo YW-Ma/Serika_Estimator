@@ -1,8 +1,8 @@
 # Serika_Estimator
 225D Final Project
 ## Structure:
--- preprocessing: preprocessing script
--- modeling: modeling script and evaluation script
+- preprocessing: preprocessing script
+- modeling: modeling script and evaluation script
 ## Notice:
 We only upload notebooks because dataset is too large.
 
